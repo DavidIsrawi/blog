@@ -5,7 +5,6 @@ import './style.css';
 
 class SiteNav extends React.Component {
     render() {
-        console.log(this.props);
         return (
             <nav className="blog-nav">
                 <ul>
