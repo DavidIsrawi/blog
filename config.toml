@@ -1,0 +1,12 @@
+siteTitle = "Blog by David Israwi"
+siteDescr = "Software Developer | CS Student at Univerisity of Central Florida."
+siteAuthor = "David Israwi"
+
+siteGithubUrl = "https://github.com/DavidIsrawi"
+siteEmailUrl = "mailto:davidisrawi@gmail.com?Subject=Hello%20David"
+siteInstagramUrl = "https://www.instagram.com/davidisrawi"
+siteLinkedInUrl = "https://www.linkedin.com/in/davidisrawi"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
